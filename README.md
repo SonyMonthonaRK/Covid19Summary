@@ -1,3 +1,3 @@
 # Covid19Summary
 
-![](main/Tableau_ss.png)
+![](Tableau_ss.png)
